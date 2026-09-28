@@ -13915,7 +13915,6 @@ print(f"Véletlen számunk: {veletlenSzam}")
 valosveletlen = uwu.random()
 print(f"")
 masikvalos = uwu.uniform(-18,20)
-random.random()
 
 
 
